@@ -14,7 +14,7 @@
     }
   ],
   "manifest": "https://github.com/Caffinated-Snorlax/frog-continuum/raw/refs/heads/main/module.json",
-  "download": "https://raw.githubusercontent.com/Caffinated-Snorlax/frog-continuum/6d2753cd0bb9f7874313e44955a6547cdded65c5/frog-continuum.zip",
+  "download": "https://github.com/Caffinated-Snorlax/frog-continuum/raw/refs/heads/main/frog-continuum.zip",
   "packs": [
     {
       "name": "croakonus-expanse",
