@@ -13,8 +13,8 @@
       "flags": {}
     }
   ],
-  "manifest": "https://drive.google.com/file/d/1M-0hoUPTkuQCCNrgqYJKyiS9hM35Wam8/view?usp=sharing",
-  "download": "https://drive.google.com/file/d/1V6a5EvII1rFFMNynwv_LyuNSPNefQV2A/view?usp=sharing",
+  "manifest": "https://raw.githubusercontent.com/Caffinated-Snorlax/frog-continuum/6d2753cd0bb9f7874313e44955a6547cdded65c5/module.json",
+  "download": "https://raw.githubusercontent.com/Caffinated-Snorlax/frog-continuum/6d2753cd0bb9f7874313e44955a6547cdded65c5/frog-continuum.zip",
   "packs": [
     {
       "name": "croakonus-expanse",
